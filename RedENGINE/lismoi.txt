@@ -1,0 +1,9 @@
+Merci d'avoir acheté RedENGINE. Veuillez noter les informations suivantes :
+
+Tout d'abord, l'installation du mod a été simplifiée. Exécutez simplement le fichier .exe fourni dans le dossier de téléchargement, sélectionnez la version que vous souhaitez installer, et le reste du processus se fera automatiquement.
+
+Cependant, il est crucial de savoir que notre mod RedENGINE n'est pas compatible avec Reshade ou ENB. Nous recommandons fortement de ne pas les utiliser en même temps que RedENGINE pour éviter le risque potentiel d'être banni sur FiveM.
+
+De plus, bien que nous nous efforçions d'assurer la compatibilité et la stabilité de notre mod RedENGINE, il y a toujours un risque inhérent d'être banni sur FiveM. Nous ne pouvons pas garantir que vous ne serez pas banni pour son utilisation.
+
+Si vous avez des questions ou rencontrez des problèmes avec l'utilisation de RedENGINE sur FiveM, n'hésitez pas à nous contacter sur notre serveur Discord à l'adresse discord.gg/toolfr. Notre équipe s'engage à vous fournir de l'aide et à résoudre les problèmes que vous pourriez rencontrer.
